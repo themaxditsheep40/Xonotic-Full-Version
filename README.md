@@ -247,4 +247,4 @@ This repository serves as the official landing page for Xonotic. The software is
 **Get the most recent version of Xonotic today!**
 
 ---
-**Last updated:** 2026-10-24 23:54:03 UTC
+**Last updated:** 2026-10-25 02:36:00 UTC
